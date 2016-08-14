@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('header.jpg');
+  background-image: url('../header.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
