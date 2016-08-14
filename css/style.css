@@ -100,3 +100,7 @@
 #target {
   width: 345px;
 }
+
+section {
+  padding: 60px !important;
+}
